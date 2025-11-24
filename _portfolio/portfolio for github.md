@@ -27,6 +27,8 @@ This project was an assignment for a GIS course I took at UMBC and it maps the d
 **Workflow**  
 In ArcGIS Pro, I began by loading in the data (tree points and Baltimore City polygon) and used a summary command to aggregate my data based on tree type (genus) and opted to only visualize the top 5 most common trees. Then, using a selection query I selected the trees which were either dead or in poor health and visualized them on two maps. Finally, I created charts showing the counts for each genus, and pie charts separated by genus, comparing whether it was dead or in poor condition.  
 
+![Map of Baltimore trees in poor or dead health](images/balt_tree_health_portfolio.png)
+
 
 # **Maryland’s Forestation Land Cover Patterns For Carbon Sequestration**
 
@@ -91,4 +93,5 @@ This map was part of an assignment for a GIS course I took at UMBC. The objectiv
 
 **Workflow**  
 I began by adding the data on a map in ArcGISPro. Then, I performed a table join, linking the attribute tables of the grocery stores and recreation centers to the attribute table of Baltimore City’s tracts. To filter the data, I performed a selection query selecting all tracts containing recreation centers and grocery stores. Finally,I created a new field called “area”, and used the Calculate Geometry tool to find the area of each tract.   
+
 
