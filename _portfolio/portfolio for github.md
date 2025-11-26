@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number X"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "UMBC Portfolio"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG_9167.png'>"
 collection: portfolio
 ---
 
@@ -97,6 +97,7 @@ This map was part of an assignment for a GIS course I took at UMBC. The objectiv
 I began by adding the data on a map in ArcGISPro. Then, I performed a table join, linking the attribute tables of the grocery stores and recreation centers to the attribute table of Baltimore City’s tracts. To filter the data, I performed a selection query selecting all tracts containing recreation centers and grocery stores. Finally,I created a new field called “area”, and used the Calculate Geometry tool to find the area of each tract.   
 
 ![Map of Areas of Interest](https://raw.githubusercontent.com/bruhhdget/bruhhdget.github.io/master/images/portfolio_map6.png)
+
 
 
 
